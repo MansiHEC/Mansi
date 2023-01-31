@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I am Mansi </h1>
-<h3 align="center">Greetings! I'm a passionate self-taught quant and a freelance analyst from India. I deeply care about education and skill development in rural parts of India and like to volunteer whenever possible. Nice to e-meet you :) </h3>
+<h3 align="center">Greetings! I'm a passionate self-taught quant and a freelance analyst from India. I deeply care about education and skill development in rural parts of India and volunteer whenever possible. Nice to e-meet you :) </h3>
 <img align="right" alt="Coding" width="400" src="http://49.media.tumblr.com/88aa2943f65180406e51f9aa224cb052/tumblr_niurbjw4hO1tszhb1o1_500.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiigoyal&label=Profile%20views&color=0e75b6&style=flat" alt="mansiigoyal" /> </p>
