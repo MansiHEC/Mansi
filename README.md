@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiigoyal&label=Profile%20views&color=0e75b6&style=flat" alt="mansiigoyal" /> </p>
 
 - 🔭 I’m currently working on [Envest](https://envest.money/overview)
-
+- 💬 Ask me about **anything, I am happy to help**
 
 - 📫 Please reach me at **mansi.iitkgp@gmail.com**
 
