@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I am Mansi </h1>
-<h3 align="center">I’m a self-taught quant and freelance analyst from India with a passion for leveraging technology to solve financial and social challenges. My GitHub (github.com/Mansihec) reflects my journey in quantitative research, investment strategies, and education-focused projects. Let’s connect!</h3>
+<h3 align="center">I’m a self-taught quant and freelance analyst from India with a passion for leveraging technology to solve financial and social challenges. My GitHub reflects my journey in quantitative research, investment strategies, and education-focused projects. Let’s connect!</h3>
 <img align="right" alt="Coding" width="300" src="http://49.media.tumblr.com/88aa2943f65180406e51f9aa224cb052/tumblr_niurbjw4hO1tszhb1o1_500.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansihec&label=Profile%20views&color=0e75b6&style=flat" alt="mansihec" /> </p>
