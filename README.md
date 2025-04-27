@@ -11,7 +11,7 @@ Let’s connect! :)) </h3>
 - 🔭 I’m currently working on being a polymath
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 Please reach me at **mansi.iitkgp@gmail.com**
+- 📫 Please reach me at **mansimif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
