@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I am Mansi </h1>
+<h1 align="center">Bonjour, I am Mansi </h1>
 <h3 align="center">I’m a self-taught quant and freelance analyst from India with a passion for leveraging technology to solve financial and social challenges. 
 
 
