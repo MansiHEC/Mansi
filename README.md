@@ -1,6 +1,7 @@
 <h1 align="center">Hola, I am Mansi </h1>
 <h3 align="center">I’m a self-taught quant and freelance analyst from India with a passion for leveraging technology to solve financial and social challenges. 
 
+
 My GitHub reflects my journey in quantitative research, investment strategies, and education-focused projects. 
 
 Let’s connect! :)) </h3>
