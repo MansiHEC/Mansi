@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansihec&label=Profile%20views&color=0e75b6&style=flat" alt="mansihec" /> </p>
 
-- 🔭 I’m currently working on being a better person
+- 🔭 I’m currently working on being a polymath
 - 💬 Ask me about **anything, I am happy to help**
 
 - 📫 Please reach me at **mansi.iitkgp@gmail.com**
